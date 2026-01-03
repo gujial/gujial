@@ -1,2 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gujial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gujial)
+![Metrics](/github-metrics.svg)
