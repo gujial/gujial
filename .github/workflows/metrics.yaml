@@ -23,3 +23,5 @@ jobs:
             gujial/VirusSys, gujial/szzl, gujial/MRI_Detection, gujial/re3
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: "76561198961517244"
+          plugin_steam_games_limit: 3
+          plugin_steam_recent_games_limit: 3
