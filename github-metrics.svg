@@ -30,17 +30,17 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -313,7 +313,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.46k hours played
+                            2.47k hours played
                         </div>
                     </section>
                 </div>
@@ -407,7 +407,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        497 hours played
+                                        500 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -415,7 +415,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 4 Jan 2026
+                                        Last played on 6 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -482,7 +482,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        15 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -490,7 +490,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Jan 2026
+                                        Last played on 6 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -499,32 +499,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            22 / 104 achievements unlocked
+                                            25 / 104 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMCAQf/xAArEAABBAIBAQQLAAAAAAAAAAABAgMEEQASBSExQWFxExQiJERRcpGTwdH/xAAYAQADAQEAAAAAAAAAAAAAAAACAwQGB//EACIRAAEDAwUAAwAAAAAAAAAAAAECAxEABSEEEjFBUXGRwf/aAAwDAQACEQMRAD8A9QkyZCpcn3mQAHVAAOEAC8q6xyTQta5lVdh0nBbp9YkLWaQHSVKPYB3nGcjzjbOymlpkyTqW2UKokGqNeXXOeWe2t3APOah0oCYiD8zjvjqtm4dkBIFFMqQPipP5Tm4syQJka5L5BcSCC4SCLwMiVLabL6Yym31WS2oAgp702OgJwvGSQ6thxKipJesE+eSP6FelBUtw7gqNpBBIzCs9Y88p4QlQOKSFuH05bc0SXDuKvdNC04HiuW4SMvZ1nRza7Uk2PInszbMpLaVWNtjsCFJ+Q8ck/IZdHtshX1FB/eHbbm7b1qIbCwfRMc8eTOaYpndxV5/NN8pJjpjKAbb2OoPh35LcIcZqgAsHBIEZl0uMsJQsiiUlI6ffOOP2Umqo31UP7h3XXuXTUh9SdsACPs/tUtNBKYr/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYCAwQB/8QAKhAAAgIBAwIFAwUAAAAAAAAAAQIDBBEABRIhQRMiMULRUWGSBhRUgpP/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwYH/8QAIhEAAQMEAgMBAQAAAAAAAAAAAQIEEQADBSESQTFhcULw/9oADAMBAAIRAxEAPwB9/U+/WNqaayZJpIROyMi2Cr47cF9x+2Rq7btwtWqMNh7MimReWI7JdQD6ebvqjcbtepPJNYAz4rcX4glfTOD20LsbxUkqSRUgvmBBCgKFz36d9c3a4p9kEgt7aiCqCr8j6ZgR3/Trbzqw3MLImPHdMRtWP5Vn/U6nVuWBcr5szkGRQQZCQRnSxW3mCGsiWDwK+UH69Nb9uvxWp4XhJKrKvXReYXI49ZXdSeAMcujvRB8b+027ps5HFJHIjx3V0kcVuKzFOgeN3OVPoeg0uLBY2Xcudem1iH1QxKM/27HRuG0satkcuR5Ahl+g++uSXFPsP5L86GOyjrHG4i2JRcBCkmYMiOiCD7FXcsEOSlR0UwQdTQS0J953WSaej+1iZubh0AA6eijtorAsdbwI4UVI1cYAGBqL2gfafyX51nknyVOMYOepHzqz7JuX6bdpY420CAkTA97JJP2rNMdbblSxtSvJMTX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Saved The Overworld</div>
-                                                <div class="unlocked">5 Jan 2026</div>
+                                                <div>Well-Seasoned</div>
+                                                <div class="unlocked">6 Jan 2026</div>
                                             </div>
-                                            <div class="description">Defeat the Arch-Illager at the Obsidian Pinnacle.</div>
+                                            <div class="description">Reach seasonal adventure rank 10.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAH/xAApEAABBAEDBAEDBQAAAAAAAAABAgMEEQUABiESEzFBUQciMhQVYWNx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAwQGAP/EACQRAAEDAwMEAwAAAAAAAAAAAAECAxEABCEFEmETobHwMXGB/9oADAMBAAIRAxEAPwAjEiRXWip+UWFtKJeQoclPro+VXxR+b8A63DPI2/tvJ5NCJLcZpzqSw06bN0AL/wB96JZLENy8g48mkjvHuAcfbXrjSb9U85iGdt5HCIlNpyAS3TPSbPKT5qrrUU9qidT6dq2g5I3ROBOfzmn7TR1ae4t9ahAB28yKd9tbiXnsHFyTD0tpD6T9i3TaSDRH88jReLMkCZGuS+QXUgguEgi9S/6Vbgxg29jcP+rR+404ezRv8ifNV41QGnKlRz/YnU9dtOW12pvIAJiZ+JxVNbbXmQrBMZ+4oBvjHzMrgJacZKcjS2Xw+2pC+mykXRPxzpDGXXvXBy2kYVt7Ksxj35ClAJ7g+1PSBfJFn1WqW8WJMKRGko7jMhJCgFJopKQCOToREw2NgZhGQhMKZWljsdCVpCSLuyL86ZtLlLLZSpMqBlJ8gwQSD2rP2a3HAUnBEH3ikZWVXs3CRWnMM2zlXo47EhKgUlz8T1XVECj7B06bIhy8ZhoqcjJXIlOO99alr6qKvQPxrmQw2OnZdc+WyXVrY7BQpQKQLu6vzrYwGo0ZhhhPQ0ykJSOocADjRbi5S82EpTCiZUfAEkkAd6La2S21lSzgCB7zX//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYEB//EACkQAAIBAwMCBgIDAAAAAAAAAAECAwAEEQUSITFRExQiI0FhBnEVgdH/xAAYAQACAwAAAAAAAAAAAAAAAAACAwAGB//EACMRAAECBgMAAwEAAAAAAAAAAAECAwAEBREhMRMUQVGx0eH/2gAMAwEAAhEDEQA/AOoXNzcNeXOLm4AErAASEAc0M/5DNHdSQv8AyeFG5XRmcMM4zgcjnvW9pE8zcbnRcyM3qYDjjv8AuovU9Rigu0hkjgeKaUxMy5YkZVg2d2MAk9O1Z1RZIzjy+YKKfMkC9/mLPUJjroSGyL/yKl9clE0MKyaj4sp9KsWTj5PPbrSVreXAvLfNzOQZFBBkJBGagbTULeTUXslt4hb28iPvYFcMzL61IbjgfPb91YRttntXDIytICCrBh1+qZWZDpuILKVAe5JG8RKdMdhKg4RfzUEa3JEzqJ5GjWSR1BEZfJwpxgUDpGnG5k12KORyUMDHbG25gBISu0HPU9PqqiG6VFbcu7JDAhl7D7ohbIQ3V3NBcyp5oqZEZYmU4zjr23Gm0qr9Voy7gskZB3m4MFP0tb6+RvePqBta03yy6YniSrvuwFSSNlaMbHB9BOcHHx1qg0ieDZGLedpdsoLe2yAHsM0adLg8xbStI3sSeKFRY0DNjGWI5P8AdIvMMjA24Oeo/wBp9SrAmWuBsEg7xb28HTaQtlzldNiPyP/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>High and Dry</div>
-                                                <div class="unlocked">5 Jan 2026</div>
+                                                <div>Tower Power</div>
+                                                <div class="unlocked">6 Jan 2026</div>
                                             </div>
-                                            <div class="description">Complete Desert Temple, Fiery Forge and Highblock Halls.</div>
+                                            <div class="description">Complete a tower run on Adventure difficulty.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+20 others...</div>
+                                            <div class="description ellipsis">+23 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -547,7 +547,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        497 hours played
+                                        500 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -555,7 +555,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 4 Jan 2026
+                                        Last played on 6 Jan 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -600,7 +600,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2026, 02:21:21  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 7 Jan 2026, 02:21:01  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
