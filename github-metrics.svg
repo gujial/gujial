@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="899" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1041" class="">
     <defs>
         <style/>
     </defs>
@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 18 users
+                            Followed by 19 users
                         </div>
                     </section>
                     <section>
@@ -35,14 +35,14 @@
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1574 Commits
+                            1575 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -115,7 +115,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Following 15 users
+                            Following 16 users
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -185,7 +185,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    60 Stargazers
+                                    61 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -214,20 +214,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 12.8mb of code in 3696 edited files across 1035 commits</small>
+                <small>estimation from 12.8mb of code in 3705 edited files across 1036 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.46264947853135" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="202.46264947853135" y="0" width="107.57312700300956" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="310.03577648154095" y="0" width="37.95167393481982" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="347.9874504163608" y="0" width="37.50207139601961" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="385.4895218123804" y="0" width="27.724699035092343" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="413.21422084747275" y="0" width="26.072202104884663" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="439.28642295235744" y="0" width="13.486042530208856" height="8" fill="#7e7eff"/>
-                    <rect mask="url(#languages-bar)" x="452.7724654825663" y="0" width="7.227534517433805" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="202.42647995939353" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="202.42647995939353" y="0" width="107.55390929403522" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="309.98038925342877" y="0" width="37.944893949473226" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="347.925283202902" y="0" width="37.495371731204585" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="385.42065493410655" y="0" width="27.71974607692982" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="413.1404010110364" y="0" width="26.067544361763023" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="439.2079453727994" y="0" width="13.565811293344208" height="8" fill="#7e7eff"/>
+                    <rect mask="url(#languages-bar)" x="452.7737566661436" y="0" width="7.226243333856385" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -313,7 +313,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.59k hours played
+                            2.60k hours played
                         </div>
                     </section>
                 </div>
@@ -342,7 +342,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        554 hours played
+                                        564 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -350,7 +350,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 15 May 2026
+                                        Last played on 24 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -359,7 +359,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            29 / 141 achievements unlocked
+                                            30 / 141 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAsEAACAQMDAgQGAwEAAAAAAAABAgMEBREABiESMRNBUWEHFCIygZEVFnFy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EABsRAQEBAAMBAQAAAAAAAAAAAAIBAAMRISIx/9oADAMBAAIRAxEAPwDA2ztq11NghrK+KFIfDB+xVCKAOScaIgsG1qpWkpmp5IkJDtnp6f2Bx761doRznaNGBTSTKYc9Kr9wx250q/1ue5vVVu3gyKjkGBjgkeo9s+XtqNqz8urAlnuOvNh25Q0LSx00M7kEoAR0sf8ArGpbX09PDCxKKyyZVlIHHHcadayjutHSO1xt1alPFyX6CEQepOle4UzVIYhCiIDKSR2GOP2TpfG2l9Y2DD3NX9jR3WXadLPFIGVEVUiViCR05Htng+egrHYbx8+apKWogkmjbx3kboVyWyoA8sc440k2XeM9O1oEEiRU1LD0/ScrKSuCXHn6YOqTTfFS1SU4NXLMJ+c+AhKnnuMnj863lDBlPveWOSW2bncdnXaZJJJK0SQdJZ40IJwO4+ojOlK8U1LT7fuC0wTxPDjd2MpMjKQ2Moew9/POi94fEma4IKO1yNFRyoVnkdcuBkcL/oyPzpS/kqYbb+XaOGKSIytLUs2GkUjAU+3AwPXQkrqVYq5OzN//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Authoritarian</div>
+                                                <div class="unlocked">18 May 2026</div>
+                                            </div>
+                                            <div class="description">Pass the Single-Party State, Militarized Police, and Outlawed Dissent Laws</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -373,18 +383,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQYBB//EACwQAAEDAwIEBQQDAAAAAAAAAAECAwQABRESIQYTMUEHFCJCURVhccGBkaH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgQD/8QAHxEBAQACAgEFAAAAAAAAAAAAAQIAIQMRBBMiMkGR/9oADAMBAAIRAxEAPwATh/hXh08GRJ0p7DygAI6ABgY3yr52J3qPutlhsQ7jMhc95uM+3lJXnS2r3fgkgfzSrVxbjcNsN6kpRyMlaVjOrB6gnpk0FwzPdLNwEh1tfn2+SlteStz1AkjbAwQNyRU/TPupy62SSQ3hlwkW8KQ23DcSTgkqcz+qTm2G3CxTJTThcQlO6FgZGRtuDkHvW+JsB76g1cmowbiOtoQsoIIQ6ARhQHTIAIz1xUzHuDyYqoylEoVsAeg++Pn704zcFQ6zCuxRw+Q8VLIPVJIxVx4eybTKuyWrm75RlmMEhxe4UvOT/ZqEda1BLrKuYhe+R2p2wPtQ7Y6o7SVvA476Ep/ZNDmomSg7TFlV3lhxBcIp8OLmGsFUy5NJQcY1BAJ1DvjY1zFJPPa39w2qu4ymNXS1QnGlJ8ww4pJaQMDQodQPyP8AamIsc6i/JVyWmvUSrvS+NR6Jrr6/NYeT5az/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Declaration of Independence</div>
-                                                <div class="unlocked">28 Jan 2026</div>
-                                            </div>
-                                            <div class="description">Starting as a subject nation, break free from your overlord</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+27 others...</div>
+                                            <div class="description ellipsis">+28 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -401,15 +401,15 @@
                     </h2>
                     <div class="medias largeable-flex-wrap">
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAABAYDBQACBwH/xAAsEAABAwMDAgYCAgMAAAAAAAABAgMEAAURBhIhE0EHFCIxUWEycRZCI2Kh/8QAGAEBAQEBAQAAAAAAAAAAAAAABAUCAwH/xAAlEQACAQUAAAYDAQAAAAAAAAABAgADBBESISJBUWGxwQUxcYH/2gAMAwEAAhEDEQA/AOOrJUawkp5rXP3XilpCck1YkLHlMCuwGSfy/VS2yMZ9zjw2j6nlbUj7omDanJCDJkuJjxx7bv7U/wDhFZ7FcNWxlRUuOvRlb1K3cDip1zf06QIHT7R9vYvUwx4Pec1uzPkbiuKQQpv8ge9QJVkZIwP6j7pp1ALN/KZ7d0C0nrrAcCsD3oC46dWiMqZankyow5ITyQKzb/kKbgB+EzdewdCSvRKUeo1MPSOKFQvJPY/FShRqiDJ5HlPCpI4V7DvVhYoglyHJEgZjRxvVj4oKHbptxVsgR1v/AEmunaU8N9TytNvRXY3klyMpUpwA+ntQL240p4U9MdZUN3yw4Oy40bpS165sSnp2+I9HUdp3YTt7EihtNagtHh5ergAhMxa0dNDrIwBWustPz/DuwMKduaHnJI6S0snGABSjLvjarGyqKqM0rcfU83uKjQGproUQ5Qkf3MWrMzhqgw2D/MSluXQ1Df3HEPNoL7pJCh+GT7mnaXa7ToSxreTcEzZTyONqvQD8Yrlqw+gPBTKvMj/Ioo4wD7GrnTtrTq+HLEiYWXIyMthauFH4r2tQVECbeHz9ZujWLuXK+LGB6QS+hpx5uVHQQh7k49gaESrd+Khn2/dXabLJYsrkRKkvPIJII71QqZeZG19pSCP+UqwuAyaE9H694W9oatuo4fmesT5cPPk3FIX/AKnFMMS+3dzTipQuUwyGlHekOq4FKh/FPZWeTVjpy4NQbgWpfMSQNq8+wry+oh03A6JqyqlX1J4Zuq4XTUDDiHHJEjpjKt6irb90DGv860FEXYwUJVkJcb3EfdPTUyNpKx3FVtj+acnoKHHPcIRnIx8VX6D0uvX7M9PmGWVREdVSSn1EfuhU61MIx18A+Yp6blhk+L6lbOiSzKmzekrpOR0lKgeCe4FL81l6zxW1EPdN056jatoJ+K2uMt+AuTHaW6Gm1lohaid2D2prtVxZv+mGrfdIhRFjKLjbo4JV35rmWNMBiMr6zuF6R+jFxAfYt3mVPvJdV+IKzQzbrziMvqUSfk0Xf5iJkltqONrTQCR94oYHgZ/QqhZURruw6fiAvK5J0B59zzt81E6nenFbBQA5NYSNvvTyYIAgwy13yRbh03gH2e4IzxT94TX+3RtVFLB6C5wDZGeK5irG7nkd6lt7vkLnGmMAhbStwNTriwSora8JH+RtG7ZSA3Y8+IUazWm7ORSNzwcL3v75NJ868vTUdKOgNNgYASMVFfZq7tc1TH1bnCAKGGAo9jisWtiEQGpkn7nS6vC7nTgmzQ2jn371J2zWgUCKwqG2qYwJP6TP/9k=" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHQAAAgICAwEAAAAAAAAAAAAABwgFBgABAgMECf/EAC8QAAEDBAEDAwIGAgMAAAAAAAECAwQABQYRBxIhMQgTQVFhFBUiMnGRoeEjUoH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAQMA/8QAHREBAQEBAAIDAQAAAAAAAAAAAQARAiExAxJRQf/aAAwDAQACEQMRAD8AVYVs6JJHgV3wYj86azFioK33VdKEj5NXgcOZ2pAUjH5SkkbBGtEVF/aht5uKcEmcgZCbfEdS002kLfcUOyU1Z8h4Nu1mmONOXGKpAJ6VAeR/dTGOY/yVimLv2+yY5IjSZBUJMkpG1I+AD8UP4tkyy85a3YnJM1VxcUOsKdUQ3v5PepqssA9U7bOFb9cyv8A+090DZKUmuV54RyKzW2RPuKm2YrCeta1J0AKbPAsZg4BiCY7z7gS0n3JD7qyo9R89/pugLytf8r5bluwsMhSH7DDUQfaOvcUOx39RROlZPIEuTiUpcUkKCgDoKHg1rX38VfZHEebRYzj8mxSWmWxtS1a7VRHUFtxTauy0qKSPuK03bNMttOKbcSttSkKSdpUk6IP80z/pf5OlynlYze5anO24y1qJUpR+N0rpqYxi5TLDeId5hoVuI4FhQ8Gomlw4zy84tXJ7jS8/lDzqJCWj1BCiFEb+CPFKBhHJN0wgSXLYhtd1e/QuRJT7hSPoN9908OM3SLk2MxJiVIeZkMpDifO1a7ika5mxReIZ1PhaPsun3kHXbSiTqs+H+Wnf7XeB6iMhkhcbKGWZsF0dLqGGwglNGHjTGcaukyBlGCT34iSrcuKp4lKu3dPSOwO6S4eD3/3TFeneJOsuIXO8MvqDlyBiwmiexcSe5A/il0YeKc9a+aN9SvJM67ZKqyWqY61bYvdRbWUlSvkEjyKA57kkq2rzs/NNP6h+OoqcFi3u3x/bmxx701X/AG2O/wDmlYH7QO1XlMj37tH6ii3mMZm0cJY2xGaQHZMxxTzpSOpQI3rdCXQ6fP8AujPIZVlnAcMsHrmWWQ6+8lPkNnsDVaEaPThl2O3HHUWSzpejTI6Qpxt9zqKyfJFeT1UYf+c4om9xWwH7ftb7n1T41StYHkT+K5TAu0dSh7DgUtIOuofQ0zvqXyp48XWh22PBUe7fpeKfHdOyKzec68Wg7z5lQsltfvN2i26GnciQsIQPvR+ye6tW7O8Jw+0HpYtzjb7hQdBTqk/qH9iqbwXAbtxuuXz0gMWhn3o5UOzjm9ECu3hCDLzDmJu7r6lojSDLcKu+kknQ/wA012IZNLy22HuJr+l7XT+E2omvn4oAKVrwDTt+prJmbJx9JtxVp25hTKdH/wBpI/AqfGeK/J7t7GvvVz4wzZzDL2pxxr8Ta5SQ3Mjnv1o+2/mqZsnv9KzsQNf1TbMcjBl3GTV8bXfuOnE3GC9/yOQ2ztxgnud7qdxmNOynia7YpPjPfnNoCpEdtY/UrqOtCgpZb7c7I+l22TX2CDvoSshJ/kfNE/E+eshtFwjmfHgvwd6fS1HSl1xP066OOTE2l8pxy7RMVs3H9ghuvXHq/FTVoHw4P2n+DRWwu02Dg/DVyb9LZN2fR1OJB0pz5CB9xQFn845U5IlKhqiMoeWrpUWQXQjfYdX2od3m9XG9SVP3SY9IWTvS1kgfwDU+q+7vsHkrFypnc3PMidnyipMdJ6WWt9kgeDr66qmE1ng/YVg+aYZFdv/Z" alt="" />
                             <div class="about">
-                                <div class="name">Europa Universalis V</div>
+                                <div class="name">Victoria 3</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Strategy
+                                        Simulation, Strategy
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -417,7 +417,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        564 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -425,7 +425,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 17 May 2026
+                                        Last played on 24 May 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -434,7 +434,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            0 / 69 achievements unlocked
+                                            30 / 141 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAYHBQP/xAAsEAACAQMDAgQGAwEAAAAAAAABAgMEBREABiESMRNBUWEHFCIygZEVFnFy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgMEAf/EABsRAQEBAAMBAQAAAAAAAAAAAAIBAAMRISIx/9oADAMBAAIRAxEAPwDA2ztq11NghrK+KFIfDB+xVCKAOScaIgsG1qpWkpmp5IkJDtnp6f2Bx761doRznaNGBTSTKYc9Kr9wx250q/1ue5vVVu3gyKjkGBjgkeo9s+XtqNqz8urAlnuOvNh25Q0LSx00M7kEoAR0sf8ArGpbX09PDCxKKyyZVlIHHHcadayjutHSO1xt1alPFyX6CEQepOle4UzVIYhCiIDKSR2GOP2TpfG2l9Y2DD3NX9jR3WXadLPFIGVEVUiViCR05Htng+egrHYbx8+apKWogkmjbx3kboVyWyoA8sc440k2XeM9O1oEEiRU1LD0/ScrKSuCXHn6YOqTTfFS1SU4NXLMJ+c+AhKnnuMnj863lDBlPveWOSW2bncdnXaZJJJK0SQdJZ40IJwO4+ojOlK8U1LT7fuC0wTxPDjd2MpMjKQ2Moew9/POi94fEma4IKO1yNFRyoVnkdcuBkcL/oyPzpS/kqYbb+XaOGKSIytLUs2GkUjAU+3AwPXQkrqVYq5OzN//2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Authoritarian</div>
+                                                <div class="unlocked">18 May 2026</div>
+                                            </div>
+                                            <div class="description">Pass the Single-Party State, Militarized Police, and Outlawed Dissent Laws</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABgQHAgMIBf/EACsQAAEDAwMCBgEFAAAAAAAAAAECAwQFBhEAEiEHMRMyQVFhcUIUUoGRof/EABcBAQEBAQAAAAAAAAAAAAAAAAIBAwT/xAAdEQEBAAIDAAMAAAAAAAAAAAACAQAxAxESBEFh/9oADAMBAAIRAxEAPwCJYloUKVY6KhNilQRnyjAQAnP2ScE6N2/Yk6/6hIdoLbFKpzSRt8fKic9gSB3P+aVWbvf6bOR21+Etxl1LZJ8yiMenIHOlViU6vNWTCaos6FH3Obl+EghxQOR51cDHH49s86nOpAYfvF8YWp17nWDap0rkWRAFYrTEKrU5pQTIZQVbgFHAVkgY5I7f1rHqFatnyrBFZt2OI5DW9baxndnIxn9wIPbTm7I1dqlrVGBJuduS5GhPrlx29g5BJSFkJBPAHfHOq5ZdU70kq7bp2lKW3QD6FWcge3bP86wK7zqYlNvWsZdHZkdqy2lTEhpoNrHiqAxkDJ5xxx8863dOLooM6nvsCRIiOhJy2+vKXPpQ5B1zwbnqTVEZiQ3QpjBAWOVJHwPT7768+iVafS5SHo29RT+K05B0VGphKJ1nV80wrmoFWg0qtFpUyMQuQsKKWUe6yccdx8AnVOrYW7YtZK3kL/TqA3NHchzB25SfVPqPvRaZetaqMFyMp1ENoKDyg0kpLhHZJOTn3x96kybtFSt+QxPitxXQNy3mzsS59o9+B20uO0bmTlXo+T+Z/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Knock Knock</div>
+                                                <div class="unlocked">14 May 2026</div>
+                                            </div>
+                                            <div class="description">Threaten someone with gunboats to enact a treaty, and have them accept</div>
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <div>
+                                            <div class="description ellipsis">+28 others...</div>
                                         </div>
                                     </div>
                                 </div>
@@ -445,7 +470,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 May 2026, 01:04:29  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2026, 01:07:06  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
